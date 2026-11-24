@@ -1,4 +1,4 @@
-from main import add
+from main import add, times
 
 
 def test_add():
